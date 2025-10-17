@@ -41,7 +41,7 @@
   <br>
   
   <h4>Frameworks & Bibliotecas</h4>
- 
+  <img src="https://shield.codeigniter.com/" alt="CodeIgniter"/>
   <br>
   
   <h4>Bancos de Dados</h4>
