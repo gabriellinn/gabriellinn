@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Gabriel Carvalho Linn</h1>
-  <p>| Entusiasta de Tecnologia | Amante de IAs</p>
+  <p>| Technology Enthusiast | AI Lover</p>
   
   <div id="social-media" align="center">
     <a href="https://www.linkedin.com/in/gabriellinn" target="_blank">
@@ -18,36 +18,36 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-- 🔭 Atualmente estou trabalhando em um **Sistema de Registro de dados para o Conselho Tutelar do Município de Panambi**.
-- 🌱 Estou aprendendo **C++**.
-- 👯 Procuro colaborar em projetos **Open Source**.
-- 🤔 Estou procurando ajuda com **C++ e Arduino**.
-- 📫 Meu email: **linngabriel3@gmail.com**.
+- 🔭 I’m currently working on a **Data Registration System for the Guardianship Council of Panambi**.
+- 🌱 I’m currently learning **C++**.
+- 👯 I’m looking to collaborate on **Open Source** projects.
+- 🤔 I’m looking for help with **C++ and Arduino**.
+- 📫 How to reach me: **linngabriel3@gmail.com**.
 
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### 🛠️ Skills and Tools
 
 <div align="left">
-  <h4>Linguagens</h4>
+  <h4>Languages</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <br>
   
-  <h4>Frameworks & Bibliotecas</h4>
+  <h4>Frameworks & Libraries</h4>
   <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
   <br>
   
-  <h4>Bancos de Dados</h4>
+  <h4>Databases</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <br>
   
-  <h4>Ferramentas & Plataformas</h4>
+  <h4>Tools & Platforms</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
@@ -57,7 +57,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/gabriellinn">
