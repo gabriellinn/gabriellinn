@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRnNGRmOTB5MmdnaTdyems0ZnR4d2RhMG1lY25vZzNsZ2VvbDVobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100"/>
   <h1>Gabriel Carvalho Linn</h1>
   <p>| Entusiasta de Tecnologia | Amante de IAs</p>
   
