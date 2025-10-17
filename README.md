@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Gabriel Carvalho Linn</h1>
-  <p>| Technology Enthusiast | AI Lover</p>
+  <p>Technology Enthusiast | AI Lover</p>
   
   <div id="social-media" align="center">
     <a href="https://www.linkedin.com/in/gabriellinn" target="_blank">
