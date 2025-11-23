@@ -1,7 +1,7 @@
 <div id="header" align="center">
  
   <h1>Gabriel Carvalho Linn</h1>
-  <p>Software Engineer</p>
+  <p>Software Developer</p>
   
   <div id="social-media" align="center">
     <a href="https://www.linkedin.com/in/gabriellinn" target="_blank">
