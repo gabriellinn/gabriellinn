@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
   <h1>Gabriel Carvalho Linn</h1>
   <p>Software Engineer</p>
   
