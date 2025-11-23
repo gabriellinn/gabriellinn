@@ -21,9 +21,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on a **Data Registration System for the Guardianship Council of Panambi**.
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **C#**.
 - 👯 I’m looking to collaborate on **Open Source** projects.
-- 🤔 I’m looking for help with **C++ and Arduino**.
 - 📫 How to reach me: **linngabriel3@gmail.com**.
 
 
