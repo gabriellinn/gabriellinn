@@ -1,6 +1,6 @@
 <div id="header" align="center">
  
-  <h1>Hi👋, I am Gabriel Carvalho Linn</h1>
+  <h1>Gabriel Carvalho Linn</h1>
   <p>Software Developer</p>
   
   <div id="social-media" align="center">
