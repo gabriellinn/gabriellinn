@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🔭 I’m currently working on a **Data Registration System for the Guardianship Council of Panambi**.
 - 🌱 I’m currently learning **C#**.
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Skills and Tools
+### Skills and Tools
 
 <div align="left">
   <h4>Languages</h4>
