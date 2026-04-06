@@ -20,8 +20,8 @@
 
 ### About Me
 
-- 🔭 I’m currently working on a **Data Registration System for the Guardianship Council of Panambi**.
-- 🌱 I’m currently learning **C#**.
+- 🔭 I’m currently working on a **Fluig formularies for Saur Equipamentos S.A**.
+- 🌱 I’m currently learning **Fluig and JavaScript**.
 - 📫 How to reach me: **linngabriel3@gmail.com**.
 
 
@@ -32,7 +32,7 @@
 <div align="left">
   <h4>Languages</h4>
  
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <br>
@@ -48,8 +48,7 @@
   <h4>Tools & Platforms</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
+
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
