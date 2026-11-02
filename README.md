@@ -1,3 +1,5 @@
+<p align="right"><a href="README.pt-BR.md">🇺🇸 English</a> · <b>🇧🇷 Português</b></p>
+
 <div id="header" align="center">
  
   <h1>Gabriel Carvalho Linn</h1>
