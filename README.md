@@ -1,4 +1,4 @@
-<p align="right">🇺🇸 English · <b><a href="README.pt-BR.md">🇧🇷 Português</b></a></p>
+<p align="right"><b>🇺🇸 English</b> · <a href="README.pt-BR.md">🇧🇷 Português</a></p>
 
 <div id="header" align="center">
  
