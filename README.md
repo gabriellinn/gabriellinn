@@ -12,8 +12,8 @@
     <a href="https://www.instagram.com/gabcl" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>&nbsp;
     </a>
-    <a href="https://wa.me/5555996949827" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>&nbsp;
+    <a href="mailto:linngabriel3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </div>
 </div>
@@ -24,8 +24,6 @@
 
 - 🔭 I’m currently working on **Fluig & ABL Projects for Saur Equipamentos S.A**.
 - 🌱 I’m currently learning **React & Node.js**.
-- 📫 How to reach me: **linngabriel3@gmail.com**.
-
 
 ---
 
