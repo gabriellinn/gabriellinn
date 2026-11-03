@@ -19,7 +19,7 @@
 ### About Me
 
 - 🔭 I’m currently working on **Fluig & ABL Projects for Saur Equipamentos S.A**.
-- 🌱 I’m currently learning **React & Node.js**.
+- 🌱 I’m currently learning **React, Typescript & Node.js**.
 
 ---
 
