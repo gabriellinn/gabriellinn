@@ -31,7 +31,7 @@
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenEdge_ABL-5BC236?style=for-the-badge&logoColor=white&labelColor=2B2B2B" alt="OpenEdge ABL" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenEdge_ABL-5BC236?style=for-the-badge&logoColor=white&labelColor=2B2B2B" alt="Progress ABL" />&nbsp;
   <br>
   
   <h4>Frameworks & Libraries</h4>
