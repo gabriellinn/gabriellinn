@@ -19,7 +19,7 @@
 ### About Me
 
 - 🔭 I’m currently working on **Fluig & ABL Projects for Saur Equipamentos S.A**.
-- 🌱 I’m currently learning **React, Typescript & Next.js**.
+- 🌱 I’m currently learning **React, Typescript & Node.js**.
 
 ---
 
@@ -37,7 +37,7 @@
   <h4>Frameworks & Libraries</h4>
   <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;  
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
   <br>
   
   <h4>Databases</h4>
@@ -53,5 +53,3 @@
 </div>
 
 ---
-
-
