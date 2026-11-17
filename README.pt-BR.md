@@ -16,7 +16,7 @@
 ### Sobre Mim
 
 - 🔭 Atualmente trabalhando em **Projetos Fluig e ABL para Saur Equipamentos S.A**.
-- 🌱 Atualmente aprendendo **React e Node.js**.
+- 🌱 Atualmente aprendendo **Java e Spring Boot**.
 
 ---
 
